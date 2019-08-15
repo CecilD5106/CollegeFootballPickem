@@ -218,5 +218,5 @@ workbook.xlsx.readFile('2018CFPickem.xlsx')
         }
     }
     // Save workbook
-    workbook.xlsx.writeFile('2018CFPickem.xlsx');
+    workbook.xlsx.writeFile('2019CFPickem.xlsx');
 });
